@@ -6,3 +6,5 @@ body {
 h1 {
   text-align: center;
 }
+#toplinkscontainer {height: 10%; width:100%; font-size: 0; background: white; color: black}
+#bottomlinkscontainer {height: 10%; width:100%; font-size: 0; background: black; color: white} 
