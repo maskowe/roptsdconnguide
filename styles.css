@@ -36,6 +36,7 @@ h1 {
   flex-direction: row;
   text-align: start;
   justify-content: start;
+  margin-left: 10;
   margin-top:20px; 
   margin-bottom:50px;
 }
